@@ -53,7 +53,7 @@ The architecture of the WAF is composed of the following components:
 
  **Clone the Repository**:
    ```sh
-   https://github.com/ChhaviSharma-2110991967/WEF.git
+   https://github.com/ChhaviSharma-2110991967/WAF.git
    ```
 
 ## Usage
